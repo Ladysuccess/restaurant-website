@@ -1,4 +1,4 @@
-let restaurantName = "Faith's Restaurant";
+let restaurantName = "MiMi Bar And Restaurant";
 
 function orderNow() {
     alert("Welcome to " + restaurantName + "! Your order is being prepared.");
