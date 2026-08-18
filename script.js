@@ -6,7 +6,7 @@ function orderNow() {
 
 let age = 25;
 
-If (age>=) {
+if (age >= 18) {
     console.log("You can place an order.");
 } else {
     console.log("You must be 18 or older.");
