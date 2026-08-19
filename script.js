@@ -11,10 +11,10 @@ if (age >= 18) {
 } else {
     console.log("You must be 18 or older.");
 }
-{
+
 function calculateTotal(food, drink) {
     return food + drink ;
 }
-let result = add(3500, 1500);
+let result = calculateTotal(3500, 1500);
 console.log(result);
 
